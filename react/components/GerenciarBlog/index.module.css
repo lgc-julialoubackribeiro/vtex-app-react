@@ -1,0 +1,71 @@
+.input {
+  border: 2px solid #e3e4e6;
+  margin: 10px 0px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.label {
+  color: var(--text-primary);
+}
+
+.colorDiv {
+  background-color: var(--background-third);
+  padding-bottom: 20px;
+}
+
+.titulo {
+  color: var(--text-primary);
+  text-align: center;
+}
+
+.subtitulo {
+  color: var(--text-primary);
+}
+
+.button {
+  background-color: var(--background-primary);
+  padding: 10px;
+  color: #fff;
+  border: 2px solid var(--background-primary);
+  border-radius: 5px;
+  text-decoration: none;
+  float: right;
+}
+
+.buttonAction {
+  background-color: var(--background-primary);
+  padding: 10px;
+  color: #fff;
+  border: 2px solid var(--background-primary);
+  border-radius: 5px;
+  text-decoration: none;
+  margin: 0px 10px;
+}
+
+.tabela {
+  border-spacing: 0;
+  table-layout: fixed;
+}
+
+.linha, .coluna {
+  border-bottom: 2px solid var(--background-primary);
+  color: var(--text-secondary);
+}
+
+.coluna {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.cabecalho {
+  background-color: var(--background-primary);
+  border: 2px solid var(--background-primary);
+  color: #fff;
+}
+
+.overflow {
+  overflow: auto;
+}
+

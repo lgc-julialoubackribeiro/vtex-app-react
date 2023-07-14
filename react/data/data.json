@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Cozinha Moderna",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel tincidunt sem. Aenean molestie arcu mi, convallis laoreet sem rhoncus at. Aenean iaculis quam consequat purus mollis, sit amet varius purus hendrerit. Morbi nisi elit, pharetra ut turpis eget, hendrerit vestibulum dui. Quisque porta efficitur lorem in congue. In quis diam congue, fermentum libero tincidunt, semper tortor. Duis hendrerit sed magna ac luctus. Nunc vitae eros massa. Proin ullamcorper turpis eget mollis sagittis.",
+    "image": "https://casa.abril.com.br/wp-content/uploads/2021/06/cozinha-pequena-parecer-ampla-blog-inove-papeis-de-parede-03..jpg?quality=95&strip=info&w=1024"
+  },
+  {
+    "title": "Quarto Boho",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel tincidunt sem. Aenean molestie arcu mi, convallis laoreet sem rhoncus at. Aenean iaculis quam consequat purus mollis, sit amet varius purus hendrerit. Morbi nisi elit, pharetra ut turpis eget, hendrerit vestibulum dui. Quisque porta efficitur lorem in congue. In quis diam congue, fermentum libero tincidunt, semper tortor. Duis hendrerit sed magna ac luctus. Nunc vitae eros massa. Proin ullamcorper turpis eget mollis sagittis.",
+    "image": "https://finger.ind.br/wp-content/uploads/2022/04/post-thumbnail-bc16c6adf151b7738d0d0818bc42325e-1170x685.jpg"
+  },
+  {
+    "title": "Banheiro Industrial",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel tincidunt sem. Aenean molestie arcu mi, convallis laoreet sem rhoncus at. Aenean iaculis quam consequat purus mollis, sit amet varius purus hendrerit. Morbi nisi elit, pharetra ut turpis eget, hendrerit vestibulum dui. Quisque porta efficitur lorem in congue. In quis diam congue, fermentum libero tincidunt, semper tortor. Duis hendrerit sed magna ac luctus. Nunc vitae eros massa. Proin ullamcorper turpis eget mollis sagittis.",
+    "image": "https://cdn.leroymerlin.com.br/contents/banheiro_industrial_10_produtos_para_voce_levar_esse_estilo_para_o_seu_9b12_original.jpg"
+  },
+  {
+    "title": "Sala Vintage",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel tincidunt sem. Aenean molestie arcu mi, convallis laoreet sem rhoncus at. Aenean iaculis quam consequat purus mollis, sit amet varius purus hendrerit. Morbi nisi elit, pharetra ut turpis eget, hendrerit vestibulum dui. Quisque porta efficitur lorem in congue. In quis diam congue, fermentum libero tincidunt, semper tortor. Duis hendrerit sed magna ac luctus. Nunc vitae eros massa. Proin ullamcorper turpis eget mollis sagittis.",
+    "image": "https://www.tuacasa.com.br/wp-content/uploads/2018/07/sala-retro-capa.jpg"
+  }
+]

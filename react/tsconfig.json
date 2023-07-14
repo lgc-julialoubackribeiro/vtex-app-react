@@ -5,7 +5,9 @@
     "lib": ["dom"],
     "module": "esnext",
     "moduleResolution": "node",
-    "target": "es2017"
+    "target": "es2017",
+    "esModuleInterop": true,
+    "resolveJsonModule": true
   },
   "include": ["./typings/*.d.ts", "./**/*.tsx", "./**/*.ts"]
 }

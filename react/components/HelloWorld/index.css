@@ -1,0 +1,23 @@
+[data-theme='dark'] {
+  --background: #616161;
+  --text-primary: white;
+  --text-secondary: #fafafa;
+}
+
+[data-theme='light'] {
+  --background: white;
+  --text-primary: #e68e94;
+  --text-secondary: #c2185b;
+}
+
+.helloWorldText {
+  color: var(--text-secondary);
+  background-color: var(--background);
+}
+
+.helloWorldTitle {
+  color: var(--text-primary);
+}
+
+
+

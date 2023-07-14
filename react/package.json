@@ -13,13 +13,19 @@
   },
   "devDependencies": {
     "@apollo/react-testing": "^3.1.3",
+    "@types/jsonfile": "^6.1.1",
     "@types/node": "^13.9.8",
     "@types/react": "^16.9.31",
     "@vtex/test-tools": "^3.3.2",
     "@vtex/tsconfig": "^0.4.4",
     "apollo-cache-inmemory": "^1.6.5",
     "graphql": "^14.6.0",
-    "typescript": "3.9.7"
+    "logicinfopartnerbr.react-app-julia": "https://julialoubackribeiro--logicinfopartnerbr.myvtex.com/_v/private/typings/linked/v1/logicinfopartnerbr.react-app-julia@0.0.2+build1689201618/public/@types/logicinfopartnerbr.react-app-julia",
+    "typescript": "3.9.7",
+    "vtex.catalog-graphql": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.catalog-graphql@1.102.3/public/@types/vtex.catalog-graphql",
+    "vtex.css-handles": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@0.4.4/public/@types/vtex.css-handles",
+    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.133.2/public/@types/vtex.render-runtime",
+    "vtex.styleguide": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.styleguide@9.146.9/public/@types/vtex.styleguide"
   },
   "resolutions": {
     "@types/jest": "26.0.15"

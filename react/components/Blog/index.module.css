@@ -1,0 +1,34 @@
+.input {
+  border: 2px solid #e3e4e6;
+  margin: 10px 0px;
+  border-radius: 5px;
+}
+
+.label {
+  color: var(--text-primary);
+}
+
+.colorDiv {
+  background-color: var(--background-third);
+  padding-bottom: 20px;
+}
+
+.titulo {
+  color: var(--text-primary);
+  text-align: center;
+}
+
+.subtitulo {
+  color: var(--text-primary);
+}
+
+.button {
+  background-color: var(--background-primary);
+  padding: 10px;
+  color: #fff;
+  border: 2px solid var(--background-primary);
+  border-radius: 5px;
+  text-decoration: none;
+  margin: 0px 20px;
+  float: right;
+}

@@ -1,0 +1,39 @@
+.colorDiv {
+  background-color: var(--background-secondary);
+  padding: 10px;
+  margin: 10px;
+  max-height: 460px;
+}
+
+.image {
+  height: 200px;
+}
+
+.imgTitle {
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.imgDescription {
+  color: var(--text-secondary);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  text-align: justify;
+}
+
+.imgDescription {
+  color: var(--text-secondary);
+}
+
+.button {
+  padding: 10px 15px;
+  background-color: var(--background-primary);
+  color: #fff;
+  width: 100%;
+  border: 2px solid var(--background-primary);
+}

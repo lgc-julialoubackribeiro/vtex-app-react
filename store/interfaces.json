@@ -1,0 +1,21 @@
+{
+  "hello-world": {
+    "component": "HelloWorld"
+  },
+  "hello-data": {
+    "component": "HelloData"
+  },
+  "blog": {
+    "component": "Blog"
+  },
+  "gerenciar-blog": {
+    "component": "GerenciarBlog"
+  },
+  "component-parent": {
+    "component": "ComponentParent",
+    "composition": "children"
+  },
+  "change-color": {
+    "component": "ChangeColor"
+  }
+}
