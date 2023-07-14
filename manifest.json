@@ -1,7 +1,7 @@
 {
   "vendor": "logicinfopartnerbr",
   "name": "react-app-julia",
-  "version": "0.0.2",
+  "version": "1.0.0-beta.0",
   "title": "React App Julia's Decor",
   "description": "App de Julia's Decor",
   "builders": {
